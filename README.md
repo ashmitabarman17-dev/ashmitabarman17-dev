@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Ashmita Barman" width="100%" />
+  <img src="./banner.svg" alt="Ashmita Barman" width="100%" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <a href="https://bealach-dublin.vercel.app"><img src="https://img.shields.io/badge/Bealach-Live_Demo-2F6B5A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
-<p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
+<p align="center"><img src="./divider.svg" alt="" width="100%" /></p>
 
 ### ◆ About me
 
@@ -22,7 +22,7 @@
 - Drawn to statistical modeling, time-series anomaly detection, and applied ML on real infrastructure data
 - Based in Dublin, Ireland · open to Software/Data Engineering internships
 
-<p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
+<p align="center"><img src="./divider.svg" alt="" width="100%" /></p>
 
 ### ◆ Featured project — Bealach
 
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
-<p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
+<p align="center"><img src="./divider.svg" alt="" width="100%" /></p>
 
 ### ◆ Tech stack
 
