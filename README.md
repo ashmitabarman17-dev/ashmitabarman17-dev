@@ -6,7 +6,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=1200&color=2F6B5A&center=true&vCenter=true&width=620&lines=Software+Engineer+%E2%86%92+Data+%26+ML+Engineer;Building+Bealach+%E2%80%94+real-time+transit+anomaly+detection;MSc+Data+%26+Computational+Science+%40+UCD+Dublin;Open+to+Software%2FData+Engineering+Internships" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./tagline-dark.svg" />
+    <img src="./tagline.svg" alt="" />
+  </picture>
 </p>
 
 <p align="center">
