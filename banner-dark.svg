@@ -148,8 +148,8 @@
 </g>
 </g>
 </g></g>
-<text x="600.0" y="137" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#C9D8EE" font-weight="600" letter-spacing="1">Ashmita Barman</text>
-<text x="600.0" y="177" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="20" fill="#8FD9BC">Software &amp; Data Engineering &#8212; building rigorously tested, statistically sound systems</text>
-<line x1="490.0" y1="197" x2="710.0" y2="197" stroke="#B8924A" stroke-width="1.2"/>
-<circle cx="600.0" cy="197" r="3.2" fill="#24508F"/>
+<text x="600.0" y="160" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#C9D8EE" font-weight="600" letter-spacing="1">Ashmita Barman</text>
+<text x="600.0" y="200" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="20" fill="#8FD9BC">Software &amp; Data Engineering &#8212; building rigorously tested, statistically sound systems</text>
+<line x1="490.0" y1="220" x2="710.0" y2="200" stroke="#B8924A" stroke-width="1.2"/>
+<circle cx="600.0" cy="220" r="3.2" fill="#24508F"/>
 </svg>
