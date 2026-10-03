@@ -97,6 +97,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmitabarman17-dev&layout=compact&hide_border=true&theme=transparent&title_color=24508F&text_color=1F3A5F" />
 </p>
 
-<p align="center"><img src="./divider.svg" alt="" width="100%" /></p>
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
 
 <p align="center"><i>Dublin, Ireland · always happy to talk transit data, well-tested systems, or the occasional hackathon.</i></p>
